@@ -1,0 +1,27 @@
+{
+  "name": "gulp-virtual-src",
+  "version": "1.0.0",
+  "description": "Source virtual gulp files through a constructor function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/nolotz/gulp-virtual-src"
+  },
+  "keywords": [
+    "gulp",
+    "virtual",
+    "source",
+    "src",
+    "func",
+    "function"
+  ],
+  "author": "Noah-Jerome Lotzer <noah.lotzer@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "to-through": "^2.0.0",
+    "vinyl": "^2.2.0"
+  }
+}
