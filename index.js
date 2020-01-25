@@ -15,7 +15,7 @@ const { Readable } = require('stream');
 /**
  * @param {Function|Array<Function>} func 
  */
-export default function virtual(func) {
+module.exports = function virtual(func) {
     const funcs = Array.isArray(func) ? func : [func];
 
     return toThrough(

@@ -1,6 +1,6 @@
 {
   "name": "gulp-virtual-src",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Source virtual gulp files through a constructor function",
   "main": "index.js",
   "scripts": {
